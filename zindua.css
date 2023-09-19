@@ -1,0 +1,51 @@
+/* @media(min-width:468px){
+  .container-1{
+    display:flex; */
+    /*
+    align-items:flex-start;
+    align-items:flex-end;
+    align-items:center;
+    
+    flex-direction:column;
+    */
+  }
+  /* /.container-1 div{
+    border: 2px dotted red;
+    padding:10px;
+    width: 300px;
+    height: 400px;
+  
+  }
+  .box-1{
+    flex:2;
+    order:2;
+  }
+  
+  .box-2{
+    flex:2;
+    order:1;
+  }
+  
+  .box-3{
+    flex:2;
+    order: 3;
+  }
+  
+
+
+@import "compass/css3";
+
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+$red: #e74c3c;
+
+*, 
+*:before, 
+*:after {
+   @include box-sizing(border-box); 
+}
+
+html, body {
+  background: #f1f1f1;
+  font-family: 'Merriweather', sans-serif;
+  padding: 1em;
+} */
